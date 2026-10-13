@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+
+# Expo
+.expo/
+.expo-shared/
+
+# Editor / IDE
+.vscode/
+
+# Native builds & dependencies
+ios/Pods/
+android/.gradle/
+android/app/build/
+
+# Logs & Environment variables
+*.log
+npm-debug.log
+yarn-error.log
+.env
+
+# Output / Build directories
+dist/
+build/
+
+# Keystores / Certificates
+*.keystore
